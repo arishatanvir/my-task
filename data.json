@@ -1,0 +1,22 @@
+{
+  "exercises": [
+    {
+      "title": "jumping jacks ",
+      "details": "20 sets ",
+      "complete": true,
+      "id": 183
+    },
+    {
+      "title": "jumping jacks",
+      "details": "4 sets",
+      "complete": false,
+      "id": 653
+    },
+    {
+      "title": " ,. .",
+      "details": " zm;/ m",
+      "complete": false,
+      "id": 190
+    }
+  ]
+}
